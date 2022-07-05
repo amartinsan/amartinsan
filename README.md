@@ -1,5 +1,5 @@
 ### Hi there 🖖
-- 🔭 I’m currently working on metagenomic bioinformatics
+- 🔭 I’m currently working on metagenomics 
 - 🌱 I’m currently learning netxtflow (https://www.nextflow.io)
 - 📫 How to reach me: adrianms@ciencias.unam.mx 
 - ⚡ Fun fact: Loves outdoors 🌲, science 🔬 , climbing 🧗 and gaming 🎮 
