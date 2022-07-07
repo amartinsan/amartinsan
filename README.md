@@ -1,4 +1,4 @@
-### Hi there 🖖
+### Hello there 🖖
 - 🔭 I’m currently working on metagenomics and microbial ecology 🦠🌎 
 - 🌱 I’m currently learning netxtflow (https://www.nextflow.io)
 - 📫 How to reach me: adrianms@ciencias.unam.mx 
