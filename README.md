@@ -1,6 +1,6 @@
 ### Hello there 🖖
 - 🔭 I’m currently working on metagenomics and microbial ecology 🦠🌎 
-- 🔭 I’m also working with gut microbiome data 
+- 🔭 I’m also working with gut microbiota data from Mexico
 - 🌱 I’m currently learning netxtflow (https://www.nextflow.io)
 - 📫 How to reach me: adrianms@ciencias.unam.mx 
 - ⚡ Fun fact: Loves outdoors 🌲, science 🔬 , climbing 🧗 and gaming 🎮 
