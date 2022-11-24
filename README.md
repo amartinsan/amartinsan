@@ -1,6 +1,6 @@
 ### Hello there 🖖
 - 🔭 I’m currently working on metagenomics and microbial ecology 🦠🌎 
-- 💩:mexico: I’m also working with gut microbiota data from Mexico
+- 💩 I’m also working with gut microbiota data from Mexico
 - 🌱 I’m currently learning netxtflow (https://www.nextflow.io)
 - 📫 How to reach me: 4dri4nms@gmail.com
 - ⚡ Fun fact: Loves outdoors 🌲, science 🔬 , climbing 🧗 and gaming 🎮
