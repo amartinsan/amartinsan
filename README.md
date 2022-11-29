@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning netxtflow (https://www.nextflow.io)
 - 📫 How to reach me: 4dri4nms@gmail.com
 - ⚡ Fun fact: Loves outdoors 🌲, science 🔬 , climbing 🧗 and gaming 🎮
-- 
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarsantana/)
 
 
