@@ -1,8 +1,9 @@
 ### Hello there 🖖
-- 🔭 I’m currently working on metagenomics and microbial ecology 🦠🌎 
-- 💩 I’m also working with gut microbiota data from Mexico
+- 🔬 I’m currently doing my PhD working on microbial ecology and metagenomics 🦠🌎 
+- 🔍Trying to isolate HC degrading bacteria 
 - 🌱 I’m currently learning netxtflow (https://www.nextflow.io)
-- 📫 How to reach me: 4dri4nms@gmail.com
+- 💩 I also used to work a lot with gut microbiota data from Mexico
+- 📫 How to reach me: adrian.martinez@ibt.unam.mx or 4dri4nms@gmail.com
 - ⚡ Fun fact: Loves outdoors 🌲, science 🔬 , climbing 🧗 and gaming 🎮
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarsantana/)
