@@ -1,8 +1,8 @@
 ### Hello there 🖖
 - 🔬 I’m currently doing my PhD working on microbial ecology and metagenomics 🦠🌎 
-- 🔍Trying to isolate HC degrading bacteria 
+- 🔍Trying to isolate hydrocarbon degrading bacteria 
 - 🌱 I’m currently learning netxtflow (https://www.nextflow.io)
-- 💩 I also used to work a lot with gut microbiota data from Mexico
+- 💩 I also used to work with gut microbiota data from Mexico
 - 📫 How to reach me: adrian.martinez@ibt.unam.mx or 4dri4nms@gmail.com
 - ⚡ Fun fact: Loves outdoors 🌲, science 🔬 , climbing 🧗 and gaming 🎮
 
