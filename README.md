@@ -1,5 +1,5 @@
 ### Hello there 🖖
-- 🔬 I’m currently doing my PhD working on microbial ecology and metagenomics 🦠🌎 
+- 🔬 I’m currently doing my PhD working on microbial ecology and metagenomics of sediment communities that degrade hydrocarbons 🦠🌎 
 - 🔍Trying to isolate hydrocarbon degrading bacteria 
 - 🌱 I’m currently learning netxtflow (https://www.nextflow.io)
 - 💩 I also used to work with gut microbiota data from Mexico
