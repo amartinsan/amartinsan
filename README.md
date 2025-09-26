@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning netxtflow (https://www.nextflow.io)
 - 💩 I also used to work with gut microbiota data from Mexico
 - 📫 How to reach me: adrian.martinez@ibt.unam.mx or 4dri4nms@gmail.com
-- ⚡ Fun facts: Loves outdoors 🌲, science 🔬 , climbing 🧗 and gaming 🎮
+- ⚡ Fun facts: Loves outdoors 🌲, climbing 🧗 and gaming 🎮
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarsantana/)
 
